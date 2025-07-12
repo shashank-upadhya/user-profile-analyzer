@@ -144,9 +144,6 @@ const UserProfile = () => {
             <h1 className='text-3xl p-3 m-2 text-center text-blue-950 font-bold'>
                 GitHub User Profile Analyzer
             </h1>
-            <p className="text-center text-gray-600 mb-6">
-                Analyze GitHub profiles without API tokens
-            </p>
             
             <div className="mb-6 flex space-x-2 max-w-md mx-auto">
                 <Input
