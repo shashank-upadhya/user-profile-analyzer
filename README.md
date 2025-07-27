@@ -1,5 +1,6 @@
 # GitHub Profile Analyzer
 **Live Demo**-https://user-profile-analyzer-beta.vercel.app/
+
 A modern React application that analyzes GitHub user profiles without requiring API tokens. Get insights into any GitHub user's repositories, programming languages, and activity patterns.
 ## ✨ Features
 
